@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+node_modules
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\chris\Desktop\Programming\Projects\Project 2\react-leagueui\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
