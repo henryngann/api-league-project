@@ -8,7 +8,7 @@
   <h3 align="center">League Api Project</h3>
 
   <p align="center">
-    project_description
+    This project utilizes Node.js, Sequelized ORM , Axios.js, PostreSQL and React.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
